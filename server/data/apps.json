@@ -3807,5 +3807,34 @@
         "elementURL": "https://alitu.com/"
       }
     ]
+  }, {
+
+    "appUrl": "https://higheredpods.com",
+    "appIconUrl": "higheredpods.svg",
+    "platforms": [
+      "Web"
+    ],
+    "supportedElements": [
+      {
+        "elementName": "GUID",
+        "elementURL": "https://higheredpods.com/podcasting_2_0"
+      },
+      {
+        "elementName": "Podroll",
+        "elementURL": "https://higheredpods.com/podcasting_2_0"
+      },
+       {
+        "elementName": "OP3",
+        "elementURL": "https://higheredpods.com/podcasting_2_0"
+      },
+       {
+        "elementName": "Trailer",
+        "elementURL": "https://higheredpods.com/podcasting_2_0"
+      },
+       {
+        "elementName": "Transcript",
+        "elementURL": "https://higheredpods.com"
+      }
+    ]
   } 
 ]
